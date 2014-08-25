@@ -3,4 +3,4 @@
 java-utils
 ======
 
-A collection helpful Java utilities.
+A collection of helpful Java utilities.
