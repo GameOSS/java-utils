@@ -24,15 +24,15 @@ import org.junit.Assert;
 import org.junit.Test;
 
 /**
- * Tests the {@link SettableAttribute}
+ * Tests the {@link Attribute}
  * 
  * @author ebahtijaragic
  */
-public class SettableAttributeTest {
+public class AttributeTest {
 	private class SampleBuilder {
-		public final SettableAttribute<SampleBuilder, String> sampleInitializedString = new SettableAttribute<SampleBuilder, String>(this, "InitialValue");
+		public final Attribute<SampleBuilder, String> sampleInitializedString = new Attribute<SampleBuilder, String>(this, "InitialValue");
 
-		public final SettableAttribute<SampleBuilder, String> sampleUninitializedString = new SettableAttribute<SampleBuilder, String>(this);
+		public final Attribute<SampleBuilder, String> sampleUninitializedString = new Attribute<SampleBuilder, String>(this);
 	}
 	
 	@Test
