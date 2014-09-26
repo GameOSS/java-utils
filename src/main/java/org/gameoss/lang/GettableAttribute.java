@@ -3,7 +3,7 @@ package org.gameoss.lang;
 /**
  * An attribute that is gettable.
  * 
- * @author ebahtijaragic
+ * @author elvirb
  *
  * @param <R>
  */
