@@ -23,7 +23,7 @@ package org.gameoss.lang;
 /**
  * An attribute that is gettable.
  * 
- * @author elvirb
+ * @author Elvir Bahtijaragic
  *
  * @param <R>
  */

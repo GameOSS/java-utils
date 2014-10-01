@@ -26,7 +26,7 @@ import org.junit.Test;
 /**
  * Tests the {@link ArrayProbabilityMap}
  * 
- * @author elvir.bahtijaragic
+ * @author Elvir Bahtijaragic
  */
 public class ArrayProbabilityMapTest {
 	@Test

@@ -23,7 +23,7 @@ package org.gameoss.lang;
 /**
  * An attribute that is settable.
  * 
- * @author elvirb
+ * @author Elvir Bahtijaragic
  *
  * @param <P>
  * @param <R>

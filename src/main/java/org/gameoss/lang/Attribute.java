@@ -23,7 +23,7 @@ package org.gameoss.lang;
 /**
  * A reference holding object that returns a parent for every set.
  * 
- * @author elvirb
+ * @author Elvir Bahtijaragic
  */
 public class Attribute<P, R> implements SettableAttribute<P, R>, GettableAttribute<R> {
 	private P parent;

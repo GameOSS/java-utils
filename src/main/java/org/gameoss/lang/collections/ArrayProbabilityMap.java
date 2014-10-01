@@ -30,7 +30,7 @@ import java.util.Map;
  * 
  * NOTE: Puts are not thread safe. Gets are not thread-safe if the collection is being modified.
  * 
- * @author elvirb
+ * @author Elvir Bahtijaragic
  *
  * @param <T>
  */

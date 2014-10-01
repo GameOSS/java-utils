@@ -26,7 +26,7 @@ import org.junit.Test;
 /**
  * Tests the {@link TreeProbabilityMap}
  * 
- * @author elvir.bahtijaragic
+ * @author Elvir Bahtijaragic
  */
 public class TreeProbabilityMapTest {
 	@Test

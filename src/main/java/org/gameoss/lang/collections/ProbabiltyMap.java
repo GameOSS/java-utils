@@ -25,7 +25,7 @@ package org.gameoss.lang.collections;
  * 
  * The weight can be any floating point value.
  * 
- * @author elvirb
+ * @author Elvir Bahtijaragic
  *
  * @param <T>
  */

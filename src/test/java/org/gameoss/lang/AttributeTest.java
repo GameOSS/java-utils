@@ -26,7 +26,7 @@ import org.junit.Test;
 /**
  * Tests the {@link Attribute}
  * 
- * @author ebahtijaragic
+ * @author Elvir Bahtijaragic
  */
 public class AttributeTest {
 	private class SampleBuilder {

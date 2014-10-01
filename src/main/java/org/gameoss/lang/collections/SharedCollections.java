@@ -23,7 +23,7 @@ package org.gameoss.lang.collections;
 /**
  * A helper class for the shared collections library.
  * 
- * @author elvirb
+ * @author Elvir Bahtijaragic
  */
 public final class SharedCollections {
 	private SharedCollections() {}
